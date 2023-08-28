@@ -107,16 +107,17 @@ nav button {
 }
 
 .features {
-    padding: 3.125rem 12%;
-    font-size: 1.375rem;
+    font-size: 1.4375rem;
 }
 
 .row {
     display: flex;
+    border-bottom: 7px solid #36363c;
     width: 100%;
     align-items: center;
     flex-wrap: wrap;
     padding: 3.125rem;
+    
 }
 
 .text-col {
@@ -131,7 +132,7 @@ nav button {
 
 .img-col img{
     display: block;
-    width: 90%;
+    width: 70%;
     margin: auto;
 }
 
